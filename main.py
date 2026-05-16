@@ -4,7 +4,7 @@ import time
 #------------------------------------#
 scripts = [
     "timesms_sohag[ENC].py",
-    "seven_one_tel[ENC].py",
+    "seven_one_telz[ENC].py",
     "d3.1.ims[ENC].py"
 ]
 #------------------------------------#
