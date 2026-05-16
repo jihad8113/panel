@@ -3,19 +3,8 @@ import sys
 import time
 #------------------------------------#
 scripts = [
-
-
-    "d3.1.ims[ENC].py",
-    "green_sohag[ENC].py", 
-    "number_panel_api[ENC].py",
-   # "7onetel[ENC].py",  
-    "pscall[ENC].py",
-    "zonesms2[ENC].py",  
-    "mongodb_hn_data[ENC].py",
-    "kz[ENC].py"
-   # "seven_one_tel[ENC].p
- 
-    
+    "timesms_sohag[ENC].py",
+    "seven_one_tel[ENC].py"
 ]
 #------------------------------------#
 processes = []
