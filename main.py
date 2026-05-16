@@ -3,8 +3,8 @@ import sys
 import time
 #------------------------------------#
 scripts = [
-    "timesms_sohag[ENC].py",
-    "seven_one_tel[ENC].py"
+    "timesms_sohag[ENC].py"
+   # "seven_one_tel[ENC].py"
 ]
 #------------------------------------#
 processes = []
