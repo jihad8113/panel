@@ -18,7 +18,7 @@ for script in scripts:
     processes.append(start(script))
 while True:
     for i, p in enumerate(processes):
-        if p.poll() is not None:  # process stopped
+        if p.poll() is not None: 
             print(f"{scripts[i]} crashed. restarting...")
             processes[i] = start(scripts[i])
     time.sleep(5)
