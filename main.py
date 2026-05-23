@@ -3,7 +3,7 @@ import sys
 import time
 #------------------------------------#
 scripts = [
-    "timesms_sohag[ENC].py",
+#    "timesms_sohag[ENC].py",
     "seven_one_telz[ENC].py",
     "d3.1.ims[ENC].py",
     "mongodb_hn_data[ENC].py",
