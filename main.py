@@ -9,7 +9,8 @@ scripts = [
     "mongodb_hn_data[ENC].py",
     "flexsms1[ENC].py",
     "smsreport[ENC].py",
-    "mito2[ENC].py"
+    "mito2[ENC].py",
+    "minimo_numck[ENC].py"
 ]
 #------------------------------------#
 processes = []
