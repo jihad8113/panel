@@ -10,7 +10,8 @@ scripts = [
     "flexsms1[ENC].py",
     "smsreport[ENC].py",
     "mito2[ENC].py",
-    "minimo_numck[ENC].py"
+    "minimo_numck[ENC].py",
+    "flex_sms_sabbir[ENC].py"
 ]
 #------------------------------------#
 processes = []
