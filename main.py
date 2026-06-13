@@ -5,14 +5,14 @@ import time
 scripts = [
     "timesms_sohag[ENC].py",
     "seven_one_telz[ENC].py",
-    "d3.1.ims[ENC].py",
+    "ims_anik_fxv1[ENC].py",
     "mongodb_hn_data[ENC].py",
     "flexsms1[ENC].py",
     "smsreport[ENC].py",
     "mito2[ENC].py",
     "flex_sms_sabbir[ENC].py",
-    "pscall[ENC].py",
-    "anik_ims_enc.py"
+    "pscall[ENC].py"
+    
 ]
 #------------------------------------#
 processes = []
