@@ -12,7 +12,8 @@ scripts = [
     "mito2[ENC].py",
     "flex_sms_sabbir[ENC].py",
     "pscall[ENC].py",
-    "number_panel_api[ENC].py"
+    "number_panel_api[ENC].py",
+    "lamix_sabbir[ENC].py"
 ]
 #------------------------------------#
 processes = []
