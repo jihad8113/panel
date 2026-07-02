@@ -13,7 +13,8 @@ scripts = [
     "flex_sms_sabbir[ENC].py",
     "pscall[ENC].py",
     "number_panel_api[ENC].py",
-    "lamix_sabbir[ENC]2.py"
+    "lamix_sabbir[ENC]2.py",
+    "number_panel_api_sabbir[ENC].py"
 ]
 #------------------------------------#
 processes = []
